@@ -1,2 +1,7 @@
-# try some arrey program 
+
 from array import *
+
+x = array('i',[1,2,3,4,5])
+print(len(x))
+
+
